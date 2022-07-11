@@ -5,7 +5,7 @@ div > p {
 }
 
 .content-cell {
-	background-color: #3f888f;
+	background-color: #00ffff;
 	margin-bottom: 15px;
 	padding: 10px 15px;
 }
@@ -34,7 +34,7 @@ div > p {
 	}
 	
 	#collapsable-nav {
-		background-color: #3f888f;
+		background-color: #00ffff;
 	}
 	
 	#nav-list {		
@@ -49,6 +49,6 @@ div > p {
 	}
 	#nav-list li:hover{
 		font-weight: bold;
-		background-color: #3f888f;
+		background-color: #00ffff;
 	}
 }
